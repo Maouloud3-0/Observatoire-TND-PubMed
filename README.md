@@ -1,5 +1,12 @@
 # Observatoire TND PubMed
 
+[![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![PubMed](https://img.shields.io/badge/Source-PubMed-326599?logo=pubmed&logoColor=white)](https://pubmed.ncbi.nlm.nih.gov/)
+[![SQLite](https://img.shields.io/badge/Base-SQLite-003B57?logo=sqlite&logoColor=white)](https://www.sqlite.org/)
+[![Power BI](https://img.shields.io/badge/Tableau_de_bord-Power_BI-F2C811?logo=powerbi&logoColor=000000)](https://www.microsoft.com/fr-fr/power-platform/products/power-bi)
+[![Tests](https://img.shields.io/badge/Tests-6_r%C3%A9ussis-2EA44F?logo=pytest&logoColor=white)](tests)
+[![Licence MIT](https://img.shields.io/badge/Licence-MIT-yellow.svg)](LICENSE)
+
 Pipeline bibliométrique en Python et SQLite, accompagné d'un tableau de bord Power BI, pour explorer l'évolution de la recherche PubMed sur les troubles du neurodéveloppement (TND).
 
 ## Ce que montre le projet
@@ -69,4 +76,3 @@ L'assistance de Codex a été utilisée pour auditer, restructurer, documenter e
 ## Licence et données
 
 Le code ajouté est distribué sous licence MIT. Les notices PubMed, résumés et autres métadonnées restent soumis aux politiques du NCBI et aux droits applicables à leurs sources. Le dépôt ne republie pas le texte intégral des articles.
-
